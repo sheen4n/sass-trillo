@@ -2,7 +2,7 @@
 
 A Portfolio Project built using advanced CSS/ SASS and HTML.
 
-This is an example af an SASS/ CSS and HTML Application following the tutorial of Jonas Schmedtann.
+This is an example of an SASS/ CSS and HTML Application following the tutorial of Jonas Schmedtann.
 
 ## How to run the project
 
